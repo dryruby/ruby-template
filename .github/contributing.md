@@ -1,3 +1,3 @@
-<!--- See: https://help.github.com/en/articles/setting-guidelines-for-repository-contributors --->
+<!--- See: https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors --->
 
 # How to contribute
